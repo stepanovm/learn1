@@ -1,2 +1,2 @@
 <h1>Hello, amigo!</h1>
-<h1>Hello, amigo!</h1>
+<p>Ветвь мастер изменена</p>
